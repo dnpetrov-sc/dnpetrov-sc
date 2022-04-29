@@ -1,4 +1,6 @@
-👋 Hi, I’m @dnpetrov-sc
+This is my work account for everything related to https://syntacore.com/ and RISC-V.
+
+My personal account is @dnpetrov.
 
 <!---
 dnpetrov-sc/dnpetrov-sc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
